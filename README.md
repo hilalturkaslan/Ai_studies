@@ -1,1 +1,1 @@
-# Ai_studies
+ Ai study
