@@ -1,1 +1,1 @@
- Ai study case
+ Ai study case for example
