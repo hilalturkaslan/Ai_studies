@@ -1,1 +1,1 @@
- Ai is a study case for example 
+application done ai make
