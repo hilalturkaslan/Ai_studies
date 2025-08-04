@@ -1,1 +1,1 @@
-application done ai make
+application done ai for 
