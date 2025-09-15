@@ -1,1 +1,1 @@
-application done ai for study case
+application done ai for done study case
